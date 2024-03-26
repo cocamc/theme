@@ -3,10 +3,10 @@
 /* customize things here */
 :root {
 	/* font, change to 'gg sans' for default discord font*/
-	--font: 'figtree';
+	--font: 'Outfit';
 
 	/* top left corner text */
-	--corner-text: 'cocacord';
+	--corner-text: 'thugcord';
 
 	/* color of status indicators and window controls */
 	--online-indicator: var(--accent-2); /* change to #23a55a for default green */
